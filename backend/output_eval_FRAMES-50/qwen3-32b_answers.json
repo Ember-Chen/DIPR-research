@@ -1,0 +1,302 @@
+[
+  {
+    "question_id": "610",
+    "ground_truth": "Donnie Darko grossed $517,375 in its initial run at the box office. ",
+    "predicted_answer": "102,476,583",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "86",
+    "ground_truth": "Bronze medalist",
+    "predicted_answer": "Gold",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "174",
+    "ground_truth": "The Boeing 777 was first flown on the 12th of June, 1994 and is widely used by Emirates, which uses the ICE system on board.",
+    "predicted_answer": "Boeing 777",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "168",
+    "ground_truth": "75.5 cubic ft/s",
+    "predicted_answer": "12.3",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "810",
+    "ground_truth": "35 years.",
+    "predicted_answer": "135",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "275",
+    "ground_truth": "Bana Kingdom. 10 Kings.",
+    "predicted_answer": "Dynasty: Chola Dynasty. Number of known kings: 12.",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "67",
+    "ground_truth": "Sébastien Haller scored 21 goals that season and previously played for Auxerre.",
+    "predicted_answer": "Luuk de Jong",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "265",
+    "ground_truth": "17382 ft.",
+    "predicted_answer": "3875.25 meters",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "411",
+    "ground_truth": "Virgo",
+    "predicted_answer": "Libra",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "822",
+    "ground_truth": "Fame",
+    "predicted_answer": "West Side Story",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "30",
+    "ground_truth": "Two million.",
+    "predicted_answer": "10 million",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "715",
+    "ground_truth": "Peter Kropotkin wrote the series of essays \"Mutual Aid\" in 1902. ",
+    "predicted_answer": "1902, Peter Kropotkin",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "727",
+    "ground_truth": "Yasuyuki Kishino",
+    "predicted_answer": "Kim Hak-beom",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "668",
+    "ground_truth": "Mw 9.0–9.1",
+    "predicted_answer": "9.0",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "39",
+    "ground_truth": "Arianne Kathleen",
+    "predicted_answer": "Simone Alysia",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "213",
+    "ground_truth": "The canvasback.",
+    "predicted_answer": "Canvasback",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "680",
+    "ground_truth": "Helen Clark.",
+    "predicted_answer": "Janez Janša",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "789",
+    "ground_truth": "6 (Boston)",
+    "predicted_answer": "5",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "361",
+    "ground_truth": "The difference in price was $250.",
+    "predicted_answer": "1,200,000",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "344",
+    "ground_truth": "Richard Seddon",
+    "predicted_answer": "Woodrow Wilson",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "736",
+    "ground_truth": "Blue Ribbon Sports Inc.",
+    "predicted_answer": "Reebok",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "764",
+    "ground_truth": "Novak Djokovic",
+    "predicted_answer": "Novak Djokovic",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "285",
+    "ground_truth": "11 (Layne Staley)",
+    "predicted_answer": "10",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "431",
+    "ground_truth": "They are all born on June 20.",
+    "predicted_answer": "April 30",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "672",
+    "ground_truth": "Egan Bernal",
+    "predicted_answer": "Nairo Quintana",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "657",
+    "ground_truth": "Miracles",
+    "predicted_answer": "M",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "155",
+    "ground_truth": "The Cuckoo's Calling, The Silkworm, Career of Evil, Lethal White, Troubled Blood, The Ink Black Heart, The Running Grave ",
+    "predicted_answer": "Robert Galbraith",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "254",
+    "ground_truth": "100 calories",
+    "predicted_answer": "147",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "377",
+    "ground_truth": "Joseph Stilwell was originally scheduled to lead Operation Torch before Lieutenant General Dwight D. Eisenhower was given command of the operation. Stillwell received a Distinguished Service Cross, two Army Distinguished Service Medals, a Legion of Merit award, and a Bronze Star during his military career.",
+    "predicted_answer": "General Bernard Law Montgomery was originally scheduled to lead Operation Torch, but he did not receive any specific military awards directly for this unassigned command. However, he received numerous awards throughout his career, including the Order of the Bath (KCB), the Distinguished Service Order (DSO), and the Knight Grand Cross of the Order of the Red Eagle (Germany, before World War I).",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "327",
+    "ground_truth": "SuperM",
+    "predicted_answer": "2NE1",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "333",
+    "ground_truth": "Barack Obama",
+    "predicted_answer": "Richard Nixon",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "445",
+    "ground_truth": "14",
+    "predicted_answer": "19",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "335",
+    "ground_truth": "The original lineup of Queen consisted of Freddie Mercury (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals), and John Deacon (bass guitar).    Smile was an English rock band formed in London in 1968 with Brian May and Tim Staffell.  It ended in 1970 when Staffell left to join another band, Humpy Bong.",
+    "predicted_answer": "ERROR",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "137",
+    "ground_truth": "45 years",
+    "predicted_answer": "126",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "250",
+    "ground_truth": "1858",
+    "predicted_answer": "1849",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "533",
+    "ground_truth": "12",
+    "predicted_answer": "205",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "65",
+    "ground_truth": "3",
+    "predicted_answer": "5",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "523",
+    "ground_truth": "12",
+    "predicted_answer": "7",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "63",
+    "ground_truth": "Carl Schuhmann.",
+    "predicted_answer": "Antonios Andritsakis",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "139",
+    "ground_truth": "Skeleton Crew",
+    "predicted_answer": "How I Learned to Drive",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "23",
+    "ground_truth": "Indian National Congress",
+    "predicted_answer": "Indian National Congress",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "212",
+    "ground_truth": "Tony Blair",
+    "predicted_answer": "Tony Blair",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "109",
+    "ground_truth": "Tenerife",
+    "predicted_answer": "Tenerife",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "644",
+    "ground_truth": "Game Freak",
+    "predicted_answer": "Game Freak",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "319",
+    "ground_truth": "50",
+    "predicted_answer": "72",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "342",
+    "ground_truth": "Uhuru Kenyatta",
+    "predicted_answer": "Uhuru Kenyatta",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "559",
+    "ground_truth": "Millennium - Backstreet Boys (1999)",
+    "predicted_answer": "The most-sold album in the year that the Dallas Stars won the Stanley Cup in the 1990s was \"The Marshall Mathers LP\" by Eminem.",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "676",
+    "ground_truth": "German.",
+    "predicted_answer": "Thailand",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "66",
+    "ground_truth": "1701",
+    "predicted_answer": "1847",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "741",
+    "ground_truth": "They all share the last name \"Harrison.\" The scientist is John Harrison, the US president with the shortest tenure is William Henry Harrison, who is the grandfather of the US president sworn in by Chief Justice Melville Fuller, Benjamin Harrison. ",
+    "predicted_answer": "They were all U.S. presidents who served non-consecutive terms.",
+    "is_correct": "false"
+  }
+]

@@ -31,7 +31,8 @@ def do_sub_q(sub_q, preinfo, model):
         Please carefully analyze the question and provide *only one line* as your output, wrapped in the appropriate tags based on the following instructions:
 
         1. If you can confidently infer a clear and definitive answer based on the provided information and reasoning, simply return the answer wrapped within <answer> and </answer> tags.
-        2. If the question turly requires the latest online information (e.g., today's date, current weather), return the recommended search keywords wrapped within <query_ol> and </query_ol> tags. Only do this when you really have to.
+        2. If the answer is extremly hard and you are truly uncertain, return the recommended query keywords wrapped within <query_db> and </query_db> tags.
+        3. If the question is highly time-sensitive or requires the latest online information (e.g., today's date, current weather), return the recommended search keywords wrapped within <query_ol> and </query_ol> tags.
 
         Do not include any explanations or additional text. Only return the single line of output within the correct tags.
     """
@@ -113,8 +114,6 @@ def assess(question, preinfo, model):
 
 
 def get_ans(question, model):
-    pre_loop_analyze = None  # 上一次的分析结果
-    
     # 1 分解任务
     print("========================= 1 Splitting the question into sub-tasks... =========================")
     sub_qs = split_task(question, model)
@@ -149,6 +148,23 @@ def get_ans(question, model):
     }
 
     return response
+
+
+def get_ans_normal(question, model):
+    '''直接回答问题'''
+    prompt = f"""
+        You are an AI assistant. Please carefully analyze the following question and provide the answer.  
+        Important: Only output the answer itself, and wrap your answer with <ans></ans> tags.  
+        Do not explain anything. Do not output anything else beyond the answer in the tags.
+
+        Question: {question}
+    """
+    raw_ret = call_llm(prompt, model).strip()
+    raw_ret = re.sub(r'> search\((.*?)\)', '', raw_ret, flags=re.DOTALL) # 防止gpt-4o搜索的结果干扰tag提取
+
+    final_ans = re.search(r'<ans>(.*?)</ans>', raw_ret).group(1).strip()
+    
+    return final_ans
 
 
 if __name__ == '__main__':

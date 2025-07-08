@@ -1,0 +1,302 @@
+[
+  {
+    "question_id": "168",
+    "ground_truth": "75.5 cubic ft/s",
+    "predicted_answer": "0",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "67",
+    "ground_truth": "Sébastien Haller scored 21 goals that season and previously played for Auxerre.",
+    "predicted_answer": "Sébastien Haller",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "174",
+    "ground_truth": "The Boeing 777 was first flown on the 12th of June, 1994 and is widely used by Emirates, which uses the ICE system on board.",
+    "predicted_answer": "Boeing 777",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "610",
+    "ground_truth": "Donnie Darko grossed $517,375 in its initial run at the box office. ",
+    "predicted_answer": "517375",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "86",
+    "ground_truth": "Bronze medalist",
+    "predicted_answer": "bronze",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "335",
+    "ground_truth": "The original lineup of Queen consisted of Freddie Mercury (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals), and John Deacon (bass guitar).    Smile was an English rock band formed in London in 1968 with Brian May and Tim Staffell.  It ended in 1970 when Staffell left to join another band, Humpy Bong.",
+    "predicted_answer": "Freddie Mercury: lead vocals, piano; Brian May: guitar, vocals; Roger Taylor: drums, vocals; John Deacon: bass guitar. Brian May and Roger Taylor were in Smile; Smile began in 1968 and ended in 1970.",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "275",
+    "ground_truth": "Bana Kingdom. 10 Kings.",
+    "predicted_answer": "Bana dynasty, 6",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "715",
+    "ground_truth": "Peter Kropotkin wrote the series of essays \"Mutual Aid\" in 1902. ",
+    "predicted_answer": "1902, Peter Kropotkin",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "411",
+    "ground_truth": "Virgo",
+    "predicted_answer": "Libra",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "810",
+    "ground_truth": "35 years.",
+    "predicted_answer": "85",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "672",
+    "ground_truth": "Egan Bernal",
+    "predicted_answer": "Egan Bernal",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "213",
+    "ground_truth": "The canvasback.",
+    "predicted_answer": "Canvasback",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "822",
+    "ground_truth": "Fame",
+    "predicted_answer": "None",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "727",
+    "ground_truth": "Yasuyuki Kishino",
+    "predicted_answer": "Kim Pan-gon",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "39",
+    "ground_truth": "Arianne Kathleen",
+    "predicted_answer": "Arianne Katie",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "30",
+    "ground_truth": "Two million.",
+    "predicted_answer": "two million",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "789",
+    "ground_truth": "6 (Boston)",
+    "predicted_answer": "6",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "361",
+    "ground_truth": "The difference in price was $250.",
+    "predicted_answer": "1750",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "680",
+    "ground_truth": "Helen Clark.",
+    "predicted_answer": "Helen Clark",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "668",
+    "ground_truth": "Mw 9.0–9.1",
+    "predicted_answer": "9.1",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "736",
+    "ground_truth": "Blue Ribbon Sports Inc.",
+    "predicted_answer": "Nike",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "764",
+    "ground_truth": "Novak Djokovic",
+    "predicted_answer": "Novak Djokovic",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "377",
+    "ground_truth": "Joseph Stilwell was originally scheduled to lead Operation Torch before Lieutenant General Dwight D. Eisenhower was given command of the operation. Stillwell received a Distinguished Service Cross, two Army Distinguished Service Medals, a Legion of Merit award, and a Bronze Star during his military career.",
+    "predicted_answer": "Army Distinguished Service Medal (with multiple oak leaf clusters)\nNavy Distinguished Service Medal\nLegion of Merit\nSoviet Order of Victory",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "333",
+    "ground_truth": "Barack Obama",
+    "predicted_answer": "Barack Obama",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "265",
+    "ground_truth": "17382 ft.",
+    "predicted_answer": "5,297.97 m",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "254",
+    "ground_truth": "100 calories",
+    "predicted_answer": "98",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "285",
+    "ground_truth": "11 (Layne Staley)",
+    "predicted_answer": "22",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "155",
+    "ground_truth": "The Cuckoo's Calling, The Silkworm, Career of Evil, Lethal White, Troubled Blood, The Ink Black Heart, The Running Grave ",
+    "predicted_answer": "Robert Galbraith: The Cuckoo's Calling, The Silkworm  \nNewt Scamander: Fantastic Beasts and Where to Find Them",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "431",
+    "ground_truth": "They are all born on June 20.",
+    "predicted_answer": "June 20",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "327",
+    "ground_truth": "SuperM",
+    "predicted_answer": "SuperM, EXO, Monsta X, GOT7",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "344",
+    "ground_truth": "Richard Seddon",
+    "predicted_answer": "Joseph Stalin",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "250",
+    "ground_truth": "1858",
+    "predicted_answer": "1849",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "137",
+    "ground_truth": "45 years",
+    "predicted_answer": "34",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "533",
+    "ground_truth": "12",
+    "predicted_answer": "211",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "63",
+    "ground_truth": "Carl Schuhmann.",
+    "predicted_answer": "Carl Schuhmann",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "65",
+    "ground_truth": "3",
+    "predicted_answer": "4",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "445",
+    "ground_truth": "14",
+    "predicted_answer": "15",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "657",
+    "ground_truth": "Miracles",
+    "predicted_answer": "Miracles",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "523",
+    "ground_truth": "12",
+    "predicted_answer": "10",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "212",
+    "ground_truth": "Tony Blair",
+    "predicted_answer": "Tony Blair",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "23",
+    "ground_truth": "Indian National Congress",
+    "predicted_answer": "Indian National Congress",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "139",
+    "ground_truth": "Skeleton Crew",
+    "predicted_answer": "\"Detroit '67\"",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "559",
+    "ground_truth": "Millennium - Backstreet Boys (1999)",
+    "predicted_answer": "Britney Spears' ...Baby One More Time",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "342",
+    "ground_truth": "Uhuru Kenyatta",
+    "predicted_answer": "Uhuru Kenyatta",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "319",
+    "ground_truth": "50",
+    "predicted_answer": "50",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "676",
+    "ground_truth": "German.",
+    "predicted_answer": "England",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "741",
+    "ground_truth": "They all share the last name \"Harrison.\" The scientist is John Harrison, the US president with the shortest tenure is William Henry Harrison, who is the grandfather of the US president sworn in by Chief Justice Melville Fuller, Benjamin Harrison. ",
+    "predicted_answer": "They all share the surname Harrison.",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "644",
+    "ground_truth": "Game Freak",
+    "predicted_answer": "Game Freak",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "66",
+    "ground_truth": "1701",
+    "predicted_answer": "1769",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "109",
+    "ground_truth": "Tenerife",
+    "predicted_answer": "Fuerteventura",
+    "is_correct": "false"
+  }
+]

@@ -52,7 +52,13 @@ def call_jina_search(query):
 
     response = requests.get(url, headers=headers, params=params)
     if response.status_code == 200:
-        return response.text.strip()
+        # 只保留content的前n行
+        content = response.text.strip()
+        content_lines = content.splitlines()[:7]
+        content = '\n'.join(content_lines)
+        # 去除url
+        content = re.sub(r'https?://\S+', '', content)
+        return content
     else:
         print("请求失败，状态码:", response.status_code)
         print(response.text)

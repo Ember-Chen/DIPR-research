@@ -1,0 +1,302 @@
+[
+  {
+    "question_id": "275",
+    "ground_truth": "Bana Kingdom. 10 Kings.",
+    "predicted_answer": "Chola Dynasty, 3 known kings",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "174",
+    "ground_truth": "The Boeing 777 was first flown on the 12th of June, 1994 and is widely used by Emirates, which uses the ICE system on board.",
+    "predicted_answer": "Airbus A340",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "67",
+    "ground_truth": "Sébastien Haller scored 21 goals that season and previously played for Auxerre.",
+    "predicted_answer": "Rayan Cherki",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "335",
+    "ground_truth": "The original lineup of Queen consisted of Freddie Mercury (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals), and John Deacon (bass guitar).    Smile was an English rock band formed in London in 1968 with Brian May and Tim Staffell.  It ended in 1970 when Staffell left to join another band, Humpy Bong.",
+    "predicted_answer": "Freddie Mercury (lead vocals, piano), Brian May (guitar, backing vocals), Roger Taylor (drums, backing vocals), John Deacon (bass guitar). Brian May was in the band Smile, which began in 1968 and ended in 1970.",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "610",
+    "ground_truth": "Donnie Darko grossed $517,375 in its initial run at the box office. ",
+    "predicted_answer": "$54.9 million",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "822",
+    "ground_truth": "Fame",
+    "predicted_answer": "The Lion King",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "168",
+    "ground_truth": "75.5 cubic ft/s",
+    "predicted_answer": "3.355 m³/s (118.1 cfs)",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "810",
+    "ground_truth": "35 years.",
+    "predicted_answer": "11",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "668",
+    "ground_truth": "Mw 9.0–9.1",
+    "predicted_answer": "9.0",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "265",
+    "ground_truth": "17382 ft.",
+    "predicted_answer": "6952.5 meters",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "715",
+    "ground_truth": "Peter Kropotkin wrote the series of essays \"Mutual Aid\" in 1902. ",
+    "predicted_answer": "1902, Peter Kropotkin",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "411",
+    "ground_truth": "Virgo",
+    "predicted_answer": "Virgo",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "39",
+    "ground_truth": "Arianne Kathleen",
+    "predicted_answer": "Simone Katie",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "789",
+    "ground_truth": "6 (Boston)",
+    "predicted_answer": "Boston",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "213",
+    "ground_truth": "The canvasback.",
+    "predicted_answer": "Canvasback",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "672",
+    "ground_truth": "Egan Bernal",
+    "predicted_answer": "Egan Bernal",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "86",
+    "ground_truth": "Bronze medalist",
+    "predicted_answer": "Bronze",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "680",
+    "ground_truth": "Helen Clark.",
+    "predicted_answer": "Jenny Shipley",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "285",
+    "ground_truth": "11 (Layne Staley)",
+    "predicted_answer": "16",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "30",
+    "ground_truth": "Two million.",
+    "predicted_answer": "二百万",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "736",
+    "ground_truth": "Blue Ribbon Sports Inc.",
+    "predicted_answer": "Nike",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "361",
+    "ground_truth": "The difference in price was $250.",
+    "predicted_answer": "$250",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "764",
+    "ground_truth": "Novak Djokovic",
+    "predicted_answer": "Stan Wawrinka",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "333",
+    "ground_truth": "Barack Obama",
+    "predicted_answer": "Gerald Ford",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "327",
+    "ground_truth": "SuperM",
+    "predicted_answer": "SuperM",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "431",
+    "ground_truth": "They are all born on June 20.",
+    "predicted_answer": "June 20",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "445",
+    "ground_truth": "14",
+    "predicted_answer": "28",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "377",
+    "ground_truth": "Joseph Stilwell was originally scheduled to lead Operation Torch before Lieutenant General Dwight D. Eisenhower was given command of the operation. Stillwell received a Distinguished Service Cross, two Army Distinguished Service Medals, a Legion of Merit award, and a Bronze Star during his military career.",
+    "predicted_answer": "Grand Cross of the Legion of Honour; Croix de guerre 1914–1918; Croix de guerre des théâtres d’opérations extérieures; Médaille militaire; Colonial Medal; Escapees’ Medal; Chief Commander of the American Legion of Merit; Grand Cross of the Order of Wissam El Alaouite; Grand Cross of the Order of the Crown; Order of the White Eagle; Commander of the Order of Nichan Iftikhar",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "727",
+    "ground_truth": "Yasuyuki Kishino",
+    "predicted_answer": "Park Won-jae",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "250",
+    "ground_truth": "1858",
+    "predicted_answer": "1849",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "657",
+    "ground_truth": "Miracles",
+    "predicted_answer": "Miracles",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "65",
+    "ground_truth": "3",
+    "predicted_answer": "19",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "533",
+    "ground_truth": "12",
+    "predicted_answer": "81",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "63",
+    "ground_truth": "Carl Schuhmann.",
+    "predicted_answer": "Dimitrios Tofalos",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "23",
+    "ground_truth": "Indian National Congress",
+    "predicted_answer": "Indian National Congress",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "212",
+    "ground_truth": "Tony Blair",
+    "predicted_answer": "Tony Blair",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "344",
+    "ground_truth": "Richard Seddon",
+    "predicted_answer": "Winston Churchill",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "109",
+    "ground_truth": "Tenerife",
+    "predicted_answer": "Gran Canaria",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "523",
+    "ground_truth": "12",
+    "predicted_answer": "12",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "319",
+    "ground_truth": "50",
+    "predicted_answer": "59",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "137",
+    "ground_truth": "45 years",
+    "predicted_answer": "72",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "676",
+    "ground_truth": "German.",
+    "predicted_answer": "France",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "342",
+    "ground_truth": "Uhuru Kenyatta",
+    "predicted_answer": "Uhuru Kenyatta",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "254",
+    "ground_truth": "100 calories",
+    "predicted_answer": "95",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "66",
+    "ground_truth": "1701",
+    "predicted_answer": "1701",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "139",
+    "ground_truth": "Skeleton Crew",
+    "predicted_answer": "Gloria",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "644",
+    "ground_truth": "Game Freak",
+    "predicted_answer": "Game Freak",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "741",
+    "ground_truth": "They all share the last name \"Harrison.\" The scientist is John Harrison, the US president with the shortest tenure is William Henry Harrison, who is the grandfather of the US president sworn in by Chief Justice Melville Fuller, Benjamin Harrison. ",
+    "predicted_answer": "They all have the same last name: Harrison.",
+    "is_correct": "true"
+  },
+  {
+    "question_id": "155",
+    "ground_truth": "The Cuckoo's Calling, The Silkworm, Career of Evil, Lethal White, Troubled Blood, The Ink Black Heart, The Running Grave ",
+    "predicted_answer": "ERROR",
+    "is_correct": "false"
+  },
+  {
+    "question_id": "559",
+    "ground_truth": "Millennium - Backstreet Boys (1999)",
+    "predicted_answer": "Millennium",
+    "is_correct": "true"
+  }
+]
